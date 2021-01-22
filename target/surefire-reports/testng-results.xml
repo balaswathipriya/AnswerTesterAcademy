@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="33773" started-at="2020-10-20T13:28:18Z" finished-at="2020-10-20T13:28:52Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="33773" started-at="2020-10-20T13:28:18Z" finished-at="2020-10-20T13:28:52Z">
+      <class name="pack1.Testcase2">
+        <test-method status="PASS" signature="m1()[pri:0, instance:pack1.Testcase2@7cf10a6f]" name="m1" duration-ms="7170" started-at="2020-10-20T13:28:39Z" finished-at="2020-10-20T13:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- pack1.Testcase2 -->
+      <class name="pack1.Testcase3">
+        <test-method status="PASS" signature="m1()[pri:0, instance:pack1.Testcase3@7e0babb1]" name="m1" duration-ms="5700" started-at="2020-10-20T13:28:46Z" finished-at="2020-10-20T13:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- pack1.Testcase3 -->
+      <class name="pack1.Testcase1">
+        <test-method status="PASS" signature="senario1()[pri:0, instance:pack1.Testcase1@66d33a]" name="senario1" duration-ms="7174" started-at="2020-10-20T13:28:18Z" finished-at="2020-10-20T13:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario1 -->
+        <test-method status="PASS" signature="senario2()[pri:0, instance:pack1.Testcase1@66d33a]" name="senario2" duration-ms="6560" started-at="2020-10-20T13:28:25Z" finished-at="2020-10-20T13:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario2 -->
+        <test-method status="PASS" signature="senario3()[pri:0, instance:pack1.Testcase1@66d33a]" name="senario3" duration-ms="7144" started-at="2020-10-20T13:28:32Z" finished-at="2020-10-20T13:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario3 -->
+      </class> <!-- pack1.Testcase1 -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

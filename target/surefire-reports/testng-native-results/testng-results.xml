@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="28711" started-at="2020-10-20T12:03:14Z" finished-at="2020-10-20T12:03:43Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="28711" started-at="2020-10-20T12:03:14Z" finished-at="2020-10-20T12:03:43Z">
+      <class name="pack1.Testcase3">
+        <test-method status="PASS" signature="m1()[pri:0, instance:pack1.Testcase3@2ed94a8b]" name="m1" duration-ms="6519" started-at="2020-10-20T12:03:37Z" finished-at="2020-10-20T12:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- pack1.Testcase3 -->
+      <class name="pack1.Testcase1">
+        <test-method status="PASS" signature="senario1()[pri:0, instance:pack1.Testcase1@73f792cf]" name="senario1" duration-ms="7718" started-at="2020-10-20T12:03:14Z" finished-at="2020-10-20T12:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario1 -->
+        <test-method status="PASS" signature="senario2()[pri:0, instance:pack1.Testcase1@73f792cf]" name="senario2" duration-ms="7173" started-at="2020-10-20T12:03:22Z" finished-at="2020-10-20T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario2 -->
+        <test-method status="PASS" signature="senario3()[pri:0, instance:pack1.Testcase1@73f792cf]" name="senario3" duration-ms="7276" started-at="2020-10-20T12:03:29Z" finished-at="2020-10-20T12:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario3 -->
+      </class> <!-- pack1.Testcase1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
